@@ -88,3 +88,10 @@ Step 6: Format and Design
 Step 7: Publish and Share
 •	Save your report.
 •	You can create dashboards online, schedule data refresh, or share with others.
+
+## Output
+
+![Image](https://github.com/user-attachments/assets/4b5986f2-f11d-4253-8c22-fd85d2b5ac36)
+![Image](https://github.com/user-attachments/assets/b5083c2c-7c74-44c2-a634-f069cb0fc758)
+![Image](https://github.com/user-attachments/assets/152f5083-cf56-449c-a1b1-fcd7444cb32c)
+![Image](https://github.com/user-attachments/assets/e3a306c9-1da6-4e43-aaa4-4c914f584f82)
