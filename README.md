@@ -92,6 +92,29 @@ Step 7: Publish and Share
 ## Output
 
 ![Image](https://github.com/user-attachments/assets/4b5986f2-f11d-4253-8c22-fd85d2b5ac36)
+
+This final dashboard focuses on which airports face the most delays, both at origin and destination ends.
+Key Metrics
+Metric	Description
+303 Origin Airports	Total departure airports.
+304 Destination Airports	Total arrival airports.
+7754 Flights Diverted	Flights that didn’t land at their original destination.
+
+Visualizations
+1. Delays by Origin Airport (Line Chart)
+•	Airports like DFW (Dallas), DEN (Denver), ATL (Atlanta) show high delays.
+•	NAS and Carrier-related delays dominate.
+2. Delays by Destination Airport
+•	MSP (Minneapolis) and ORD (Chicago O’Hare) experience significant arrival delays.
+3. Average Delay by Origin Airport (Bar Chart)
+•	ORD and SFO have high average delay times for departures.
+4. Average Delay by Destination Airport
+•	EWR (Newark) and ORD are most delayed for arrivals.
+•	These are major hubs, so delays could be due to heavy traffic or congestion.
+5. Reason-wise Delay by Origin Airport (Stacked Bar Chart)
+•	Helps compare how much delay each reason (Carrier, NAS, Weather, Security) contributes at each airport.
+•	ATL, ORD, DTW have noticeable delays across multiple categories.
+
 ![Image](https://github.com/user-attachments/assets/b5083c2c-7c74-44c2-a634-f069cb0fc758)
 ![Image](https://github.com/user-attachments/assets/152f5083-cf56-449c-a1b1-fcd7444cb32c)
 ![Image](https://github.com/user-attachments/assets/e3a306c9-1da6-4e43-aaa4-4c914f584f82)
